@@ -1,0 +1,343 @@
+2024_25_sezon_maclari.csv
+Mac_kodu,TFF_mac_linki,Ev_sahibi,Ev_sahibi_gol,Misafir_takim,Misafir_takim_gol,Stat,Ana_hakem,Tarih_saat
+1000,https://tff.org/mac/1,Galatasaray,2,Hatayspor,1,RAMS Park,Turgut Doman,09.08.2024 21:00
+1001,https://tff.org/mac/2,Kasımpaşa,2,Konyaspor,3,R. Tayyip Erdoğan,M. Ali Metoğlu,10.08.2024 19:15
+1002,https://tff.org/mac/3,Antalyaspor,0,Göztepe,0,Corendon Airlines,Zorbay Küçük,10.08.2024 21:45
+1003,https://tff.org/mac/4,Fenerbahçe,1,Adana Demirspor,0,Ülker Stadyumu,Atilla Karaoğlan,10.08.2024 21:45
+1004,https://tff.org/mac/5,Sivasspor,0,Trabzonspor,0,BG Grup 4 Eylül,Cihan Aydın,11.08.2024 19:15
+1005,https://tff.org/mac/6,Alanyaspor,1,Eyüpspor,1,GAIN Park,Oğuzhan Çakır,11.08.2024 21:45
+1006,https://tff.org/mac/7,Samsunspor,0,Beşiktaş,2,Yeni 19 Mayıs,Ali Şansalan,11.08.2024 21:45
+1007,https://tff.org/mac/8,Ç. Rizespor,1,Başakşehir,1,Çaykur Didi,D. Tonusluoğlu,12.08.2024 21:00
+1008,https://tff.org/mac/9,Bodrum FK,0,Gaziantep FK,1,Bodrum İlçe,Mehmet Türkmen,12.08.2024 21:00
+1009,https://tff.org/mac/10,Konyaspor,1,Galatasaray,2,MEDAŞ Konya,Direnç Tonusluoğlu,16.08.2024 21:00
+1010,https://tff.org/mac/11,Kayserispor,1,Sivasspor,2,RHG Enertürk,Turgut Doman,17.08.2024 19:15
+1011,https://tff.org/mac/12,Adana Demirspor,1,Ç. Rizespor,2,Yeni Adana,Cihan Aydın,17.08.2024 21:45
+1012,https://tff.org/mac/13,Göztepe,2,Fenerbahçe,2,Gürsel Aksel,Kadir Sağlam,17.08.2024 21:45
+1013,https://tff.org/mac/14,Başakşehir,4,Alanyaspor,2,Fatih Terim,Arda Kardeşler,18.08.2024 19:15
+1014,https://tff.org/mac/15,Beşiktaş,4,Antalyaspor,2,Tüpraş Stadyumu,Mehmet Türkmen,18.08.2024 21:45
+1015,https://tff.org/mac/16,Gaziantep FK,0,Samsunspor,1,Kalyon Stadyumu,Emre Kargın,18.08.2024 21:45
+1016,https://tff.org/mac/17,Hatayspor,1,Kasımpaşa,1,Mersin Stadyumu,Oğuzhan Çakır,19.08.2024 21:00
+1017,https://tff.org/mac/18,Eyüpspor,4,Bodrum FK,1,R. Tayyip Erdoğan,Halil Umut Meler,19.08.2024 21:00
+1018,https://tff.org/mac/19,Alanyaspor,1,Göztepe,1,GAIN Park,M. Ali Metoğlu,23.08.2024 21:00
+1019,https://tff.org/mac/20,Sivasspor,0,Eyüpspor,1,BG Grup 4 Eylül,Zorbay Küçük,24.08.2024 19:15
+1020,https://tff.org/mac/21,Bodrum FK,3,Konyaspor,1,Bodrum İlçe,Çağdaş Altay,24.08.2024 21:45
+1021,https://tff.org/mac/22,Kasımpaşa,2,Adana Demirspor,2,R. Tayyip Erdoğan,Abdullah Buğra Taşkınsoy,25.08.2024 19:15
+1022,https://tff.org/mac/23,Antalyaspor,3,Hatayspor,2,Corendon Airlines,Atilla Karaoğlan,25.08.2024 21:45
+1023,https://tff.org/mac/24,Ç. Rizespor,0,Fenerbahçe,5,Çaykur Didi,Turgut Doman,25.08.2024 21:45
+1024,https://tff.org/mac/25,Galatasaray,3,Gaziantep FK,1,RAMS Park,Cihan Aydın,17.09.2024 20:00
+1025,https://tff.org/mac/26,Samsunspor,2,Başakşehir,0,Yeni 19 Mayıs,Direnç Tonusluoğlu,18.09.2024 20:00
+1026,https://tff.org/mac/27,Trabzonspor,2,Kayserispor,2,Papara Park,Mehmet Türkmen,19.09.2024 20:00
+1027,https://tff.org/mac/28,Fenerbahçe,3,Alanyaspor,0,Ülker Stadyumu,Mehmet Türkmen,30.08.2024 21:00
+1028,https://tff.org/mac/29,Ç. Rizespor,0,Kasımpaşa,1,Çaykur Didi,Ali Şansalan,31.08.2024 19:15
+1029,https://tff.org/mac/30,Konyaspor,0,Kayserispor,0,MEDAŞ Konya,Emre Kargın,31.08.2024 19:15
+1030,https://tff.org/mac/31,Adana Demirspor,1,Galatasaray,5,Yeni Adana,Kadir Sağlam,31.08.2024 21:45
+1031,https://tff.org/mac/32,Göztepe,2,Bodrum FK,0,Gürsel Aksel,Abdullah Buğra Taşkınsoy,31.08.2024 21:45
+1032,https://tff.org/mac/33,Eyüpspor,0,Trabzonspor,0,R. Tayyip Erdoğan,Atilla Karaoğlan,01.09.2024 19:15
+1033,https://tff.org/mac/34,Başakşehir,5,Antalyaspor,2,Fatih Terim,Arda Kardeşler,01.09.2024 19:15
+1034,https://tff.org/mac/35,Beşiktaş,2,Sivasspor,0,Tüpraş Stadyumu,Direnç Tonusluoğlu,01.09.2024 21:45
+1035,https://tff.org/mac/36,Hatayspor,0,Samsunspor,3,Mersin Stadyumu,Gamze Durmuş Pakkan,01.09.2024 21:45
+1036,https://tff.org/mac/37,Sivasspor,3,Gaziantep FK,2,BG Grup 4 Eylül,M. Ali Metoğlu,14.09.2024 17:00
+1037,https://tff.org/mac/38,Samsunspor,0,Konyaspor,1,Yeni 19 Mayıs,Oğuzhan Çakır,14.09.2024 17:00
+1038,https://tff.org/mac/39,Bodrum FK,0,Başakşehir,1,Bodrum İlçe,Zorbay Küçük,14.09.2024 20:00
+1039,https://tff.org/mac/40,Galatasaray,5,Ç. Rizespor,0,RAMS Park,Arda Kardeşler,14.09.2024 20:00
+1040,https://tff.org/mac/41,Kayserispor,2,Eyüpspor,2,RHG Enertürk,Ömer Tolga Güldibi,15.09.2024 17:00
+1041,https://tff.org/mac/42,Kasımpaşa,0,Fenerbahçe,2,R. Tayyip Erdoğan,Halil Umut Meler,15.09.2024 17:00
+1042,https://tff.org/mac/43,Alanyaspor,0,Hatayspor,0,GAIN Park,Ozan Ergün,15.09.2024 20:00
+1043,https://tff.org/mac/44,Trabzonspor,1,Beşiktaş,1,Papara Park,Ali Şansalan,15.09.2024 20:00
+1044,https://tff.org/mac/45,Antalyaspor,2,Adana Demirspor,1,Corendon Airlines,Yasin Kol,16.09.2024 20:00
+1045,https://tff.org/mac/46,Hatayspor,0,Bodrum FK,1,Mersin Stadyumu,Ümit Öztürk,20.09.2024 20:00
+1046,https://tff.org/mac/47,Konyaspor,0,Sivasspor,0,MEDAŞ Konya,Yasin Kol,21.09.2024 17:00
+1047,https://tff.org/mac/48,Fenerbahçe,1,Galatasaray,3,Ülker Stadyumu,Atilla Karaoğlan,21.09.2024 20:00
+1048,https://tff.org/mac/49,Gaziantep FK,0,Trabzonspor,0,Kalyon Stadyumu,Volkan Bayarslan,22.09.2024 20:00
+1049,https://tff.org/mac/50,Göztepe,3,Kayserispor,0,Gürsel Aksel,Ozan Ergün,22.09.2024 20:00
+1050,https://tff.org/mac/51,Kasımpaşa,0,Antalyaspor,0,R. Tayyip Erdoğan,Burak Pakkan,22.09.2024 17:00
+1051,https://tff.org/mac/52,Ç. Rizespor,0,Samsunspor,1,Çaykur Didi,Kadir Sağlam,22.09.2024 17:00
+1052,https://tff.org/mac/53,Adana Demirspor,0,Alanyaspor,2,Yeni Adana,Emre Kargın,22.09.2024 20:00
+1053,https://tff.org/mac/54,Beşiktaş,2,Eyüpspor,1,Tüpraş Stadyumu,Zorbay Küçük,23.09.2024 20:00
+1054,https://tff.org/mac/55,Sivasspor,1,Başakşehir,2,BG Grup 4 Eylül,Çağdaş Altay,27.09.2024 20:00
+1055,https://tff.org/mac/56,Trabzonspor,3,Konyaspor,2,Papara Park,Halil Umut Meler,28.09.2024 17:00
+1056,https://tff.org/mac/57,Bodrum FK,3,Adana Demirspor,1,Bodrum İlçe,Turgut Doman,28.09.2024 20:00
+1057,https://tff.org/mac/58,Eyüpspor,3,Gaziantep FK,2,R. Tayyip Erdoğan,Arda Kardeşler,28.09.2024 20:00
+1058,https://tff.org/mac/59,Samsunspor,4,Göztepe,3,Yeni 19 Mayıs,Mehmet Türkmen,29.09.2024 17:00
+1059,https://tff.org/mac/60,Alanyaspor,1,Ç. Rizespor,0,GAIN Park,Abdullah Buğra Taşkınsoy,29.09.2024 17:00
+1060,https://tff.org/mac/61,Galatasaray,3,Kasımpaşa,3,RAMS Park,Oğuzhan Çakır,29.09.2024 20:00
+1061,https://tff.org/mac/62,Antalyaspor,0,Fenerbahçe,2,Corendon Airlines,Cihan Aydın,29.09.2024 20:00
+1062,https://tff.org/mac/63,Kayserispor,0,Beşiktaş,3,RHG Enertürk,Atilla Karaoğlan,30.09.2024 20:00
+1063,https://tff.org/mac/64,Ç. Rizespor,2,Antalyaspor,1,Çaykur Didi,Burak Pakkan,04.10.2024 20:00
+1064,https://tff.org/mac/65,Kasımpaşa,0,Bodrum FK,0,R. Tayyip Erdoğan,Direnç Tonusluoğlu,05.10.2024 13:30
+1065,https://tff.org/mac/66,Göztepe,3,Sivasspor,2,Gürsel Aksel,Ali Şansalan,05.10.2024 16:00
+1066,https://tff.org/mac/67,Başakşehir,1,Kayserispor,1,Fatih Terim,Yasin Kol,05.10.2024 19:00
+1067,https://tff.org/mac/68,Hatayspor,1,Trabzonspor,1,Mersin Stadyumu,Kadir Sağlam,05.10.2024 19:00
+1068,https://tff.org/mac/69,Konyaspor,2,Eyüpspor,1,MEDAŞ Konya,Erkan Özdamar,06.10.2024 13:30
+1069,https://tff.org/mac/70,Adana Demirspor,1,Samsunspor,3,Yeni Adana,Alper Akarsu,06.10.2024 16:00
+1070,https://tff.org/mac/71,Galatasaray,1,Alanyaspor,0,RAMS Park,Mehmet Türkmen,06.10.2024 19:00
+1071,https://tff.org/mac/72,Gaziantep FK,1,Beşiktaş,1,Kalyon Stadyumu,Muhammet Ali Metoğlu,06.10.2024 19:00
+1072,https://tff.org/mac/73,Kayserispor,2,Gaziantep FK,2,RHG Enertürk,Halil Umut Meler,19.10.2024 13:30
+1073,https://tff.org/mac/74,Eyüpspor,1,Göztepe,0,R. Tayyip Erdoğan,Turgut Doman,19.10.2024 19:00
+1074,https://tff.org/mac/75,Trabzonspor,1,Başakşehir,0,Papara Park,Zorbay Küçük,19.10.2024 16:00
+1075,https://tff.org/mac/76,Antalyaspor,0,Galatasaray,3,Corendon Airlines,Ali Şansalan,19.10.2024 19:00
+1076,https://tff.org/mac/77,Bodrum FK,0,Ç. Rizespor,1,Bodrum İlçe,Oğuzhan Çakır,20.10.2024 13:30
+1077,https://tff.org/mac/78,Sivasspor,3,Hatayspor,2,BG Grup 4 Eylül,Mehmet Türkmen,20.10.2024 13:30
+1078,https://tff.org/mac/79,Samsunspor,2,Fenerbahçe,2,Yeni 19 Mayıs,Muhammet Ali Metoğlu,20.10.2024 19:00
+1079,https://tff.org/mac/80,Beşiktaş,2,Konyaspor,0,Tüpraş Stadyumu,Kadir Sağlam,20.10.2024 16:00
+1080,https://tff.org/mac/81,Alanyaspor,1,Kasımpaşa,2,GAIN Park,Cihan Aydın,20.10.2024 17:00
+1081,https://tff.org/mac/82,Adana Demirspor,2,Sivasspor,4,Yeni Adana,Atilla Karaoğlan,25.10.2024 20:00
+1082,https://tff.org/mac/83,Hatayspor,0,Kayserispor,1,Mersin Stadyumu,Zorbay Küçük,26.10.2024 13:30
+1083,https://tff.org/mac/84,Kasımpaşa,1,Samsunspor,4,R. Tayyip Erdoğan,Çağdaş Altay,26.10.2024 16:00
+1084,https://tff.org/mac/85,Göztepe,2,Trabzonspor,1,Gürsel Aksel,Cihan Aydın,26.10.2024 19:00
+1085,https://tff.org/mac/86,Başakşehir,1,Eyüpspor,1,Fatih Terim,Abdullah Buğra Taşkınsoy,27.10.2024 13:30
+1086,https://tff.org/mac/87,Gaziantep FK,3,Konyaspor,1,Kalyon Stadyumu,Burak Pakkan,27.10.2024 16:00
+1087,https://tff.org/mac/88,Alanyaspor,1,Antalyaspor,2,GAIN Park,Yasin Kol,27.10.2024 19:00
+1088,https://tff.org/mac/89,Fenerbahçe,2,Bodrum FK,0,Ülker Stadyumu,Mehmet Türkmen,27.10.2024 19:00
+1089,https://tff.org/mac/90,Galatasaray,2,Beşiktaş,1,RAMS Park,Arda Kardeşler,28.10.2024 20:00
+1090,https://tff.org/mac/91,Gaziantep FK,2,Göztepe,1,Kalyon Stadyumu,Kadir Sağlam,01.11.2024 20:00
+1091,https://tff.org/mac/92,Sivasspor,2,Ç. Rizespor,1,BG Grup 4 Eylül,Cihan Aydın,02.11.2024 13:30
+1092,https://tff.org/mac/93,Kayserispor,0,Adana Demirspor,0,RHG Enertürk,M. Ali Metoğlu,02.11.2024 16:00
+1093,https://tff.org/mac/94,Beşiktaş,1,Kasımpaşa,3,Tüpraş Stadyumu,Zorbay Küçük,02.11.2024 19:00
+1094,https://tff.org/mac/95,Konyaspor,3,Başakşehir,2,MEDAŞ Konya,Emre Kargın,03.11.2024 13:30
+1095,https://tff.org/mac/96,Bodrum FK,0,Alanyaspor,0,Bodrum İlçe,Ali Şansalan,03.11.2024 16:00
+1096,https://tff.org/mac/97,Eyüpspor,2,Hatayspor,0,R. Tayyip Erdoğan,Yasin Kol,03.11.2024 16:00
+1097,https://tff.org/mac/98,Trabzonspor,2,Fenerbahçe,3,Papara Park,Oğuzhan Çakır,03.11.2024 19:00
+1098,https://tff.org/mac/99,Samsunspor,2,Antalyaspor,0,Yeni 19 Mayıs,Direnç Tonusluoğlu,04.11.2024 20:00
+1099,https://tff.org/mac/100,Kasımpaşa,1,Kayserispor,2,R. Tayyip Erdoğan,Mehmet Türkmen,08.11.2024 20:00
+1100,https://tff.org/mac/101,Antalyaspor,3,Bodrum FK,2,Corendon Airlines,Alper Akarsu,09.11.2024 13:30
+1101,https://tff.org/mac/102,Hatayspor,3,Gaziantep FK,1,Mersin Stadyumu,Cihan Aydın,09.11.2024 16:00
+1102,https://tff.org/mac/103,Adana Demirspor,0,Eyüpspor,1,Yeni Adana,Direnç Tonusluoğlu,09.11.2024 19:00
+1103,https://tff.org/mac/104,Ç. Rizespor,3,Trabzonspor,1,Çaykur Didi,Zorbay Küçük,09.11.2024 19:00
+1104,https://tff.org/mac/105,Göztepe,2,Konyaspor,0,Gürsel Aksel,M. Ali Metoğlu,10.11.2024 13:30
+1105,https://tff.org/mac/106,Galatasaray,3,Samsunspor,2,RAMS Park,Halil Umut Meler,10.11.2024 16:00
+1106,https://tff.org/mac/107,Başakşehir,0,Beşiktaş,0,Fatih Terim,Turgut Doman,10.11.2024 19:00
+1107,https://tff.org/mac/108,Fenerbahçe,4,Sivasspor,0,Ülker Stadyumu,Kadir Sağlam,10.11.2024 19:00
+1108,https://tff.org/mac/109,Eyüpspor,1,Ç. Rizespor,2,R. Tayyip Erdoğan,Ali Şansalan,23.11.2024 13:30
+1109,https://tff.org/mac/110,Gaziantep FK,3,Başakşehir,0,Kalyon Stadyumu,Ozan Ergün,23.11.2024 16:00
+1110,https://tff.org/mac/111,Kayserispor,2,Fenerbahçe,6,RHG Enertürk,Direnç Tonusluoğlu,23.11.2024 16:00
+1111,https://tff.org/mac/112,Bodrum FK,0,Galatasaray,1,Bodrum İlçe,M. Ali Metoğlu,23.11.2024 19:00
+1112,https://tff.org/mac/113,Sivasspor,0,Kasımpaşa,0,BG Grup 4 Eylül,Burak Pakkan,24.11.2024 13:30
+1113,https://tff.org/mac/114,Konyaspor,1,Hatayspor,1,MEDAŞ Konya,Oğuzhan Çakır,24.11.2024 16:00
+1114,https://tff.org/mac/115,Samsunspor,1,Alanyaspor,1,Yeni 19 Mayıs,Zorbay Küçük,24.11.2024 16:00
+1115,https://tff.org/mac/116,Beşiktaş,2,Göztepe,4,Tüpraş Stadyumu,Alper Akarsu,24.11.2024 19:00
+1116,https://tff.org/mac/117,Trabzonspor,5,Adana Demirspor,0,Papara Park,Mehmet Türkmen,25.11.2024 20:00
+1117,https://tff.org/mac/118,Antalyaspor,2,Sivasspor,1,Corendon Airlines,Yasin Kol,29.11.2024 20:00
+1118,https://tff.org/mac/119,Samsunspor,4,Bodrum FK,0,Yeni 19 Mayıs,Ozan Ergün,30.11.2024 13:30
+1119,https://tff.org/mac/120,Adana Demirspor,0,Konyaspor,1,Yeni Adana,Atilla Karaoğlan,30.11.2024 16:00
+1120,https://tff.org/mac/121,Başakşehir,4,Göztepe,1,Fatih Terim,Çağdaş Altay,30.11.2024 19:00
+1121,https://tff.org/mac/122,Alanyaspor,2,Trabzonspor,1,GAIN Park,Burak Pakkan,30.11.2024 19:00
+1122,https://tff.org/mac/123,Ç. Rizespor,3,Kayserispor,0,Çaykur Didi,Emre Kargın,01.12.2024 16:00
+1123,https://tff.org/mac/124,Galatasaray,2,Eyüpspor,2,RAMS Park,Oğuzhan Çakır,01.12.2024 19:00
+1124,https://tff.org/mac/125,Hatayspor,1,Beşiktaş,1,Mersin Stadyumu,Kadir Sağlam,02.12.2024 20:00
+1125,https://tff.org/mac/126,Fenerbahçe,3,Gaziantep FK,1,Ülker Stadyumu,Alper Akarsu,02.12.2024 20:00
+1126,https://tff.org/mac/127,Trabzonspor,0,Kasımpaşa,0,Papara Park,Zorbay Küçük,06.12.2024 20:00
+1127,https://tff.org/mac/128,Konyaspor,0,Antalyaspor,0,MEDAŞ Konya,Halil Umut Meler,07.12.2024 13:30
+1128,https://tff.org/mac/129,Göztepe,0,Adana Demirspor,0,Gürsel Aksel,Ali Şansalan,07.12.2024 16:00
+1129,https://tff.org/mac/130,Beşiktaş,0,Fenerbahçe,0,Tüpraş Stadyumu,Mehmet Türkmen,07.12.2024 19:00
+1130,https://tff.org/mac/131,Eyüpspor,0,Samsunspor,0,R. Tayyip Erdoğan,Atilla Karaoğlan,08.12.2024 13:30
+1131,https://tff.org/mac/132,Kayserispor,0,Alanyaspor,0,RHG Enertürk,Ozan Ergün,08.12.2024 16:00
+1132,https://tff.org/mac/133,Sivasspor,0,Galatasaray,0,BG Grup 4 Eylül,Turgut Doman,08.12.2024 16:00
+1133,https://tff.org/mac/134,Başakşehir,0,Hatayspor,0,Fatih Terim,Emre Kargın,08.12.2024 19:00
+1134,https://tff.org/mac/135,Gaziantep FK,0,Ç. Rizespor,0,Kalyon Stadyumu,Direnç Tonusluoğlu,09.12.2024 20:00
+1135,https://tff.org/mac/136,Kasımpaşa,2,Eyüpspor,0,R. Tayyip Erdoğan,Oğuzhan Çakır,13.12.2024 20:00
+1136,https://tff.org/mac/137,Alanyaspor,3,Gaziantep FK,0,GAIN Park,Zorbay Küçük,14.12.2024 13:30
+1137,https://tff.org/mac/138,Bodrum FK,2,Sivasspor,0,Bodrum İlçe,Emre Kargın,14.12.2024 16:00
+1138,https://tff.org/mac/139,Ç. Rizespor,1,Konyaspor,1,Çaykur Didi,Ali Şansalan,14.12.2024 19:00
+1139,https://tff.org/mac/140,Fenerbahçe,3,Başakşehir,1,Ülker Stadyumu,Atilla Karaoğlan,15.12.2024 16:00
+1140,https://tff.org/mac/141,Antalyaspor,1,Hatayspor,0,Corendon Airlines,M. Ali Metoğlu,15.12.2024 16:00
+1141,https://tff.org/mac/142,Adana Demirspor,1,Kayserispor,2,Yeni Adana,Yasin Kol,15.12.2024 19:00
+1142,https://tff.org/mac/143,Galatasaray,3,Trabzonspor,0,RAMS Park,Halil Umut Meler,15.12.2024 19:00
+1143,https://tff.org/mac/144,Göztepe,2,Samsunspor,1,Gürsel Aksel,Cihan Aydın,16.12.2024 20:00
+1144,https://tff.org/mac/145,Eyüpspor,0,Bodrum FK,1,R. Tayyip Erdoğan,Ozan Ergün,20.12.2024 20:00
+1145,https://tff.org/mac/146,Gaziantep FK,1,Kasımpaşa,1,Kalyon Stadyumu,Direnç Tonusluoğlu,21.12.2024 13:30
+1146,https://tff.org/mac/147,Hatayspor,1,Fenerbahçe,2,Mersin Stadyumu,Turgut Doman,21.12.2024 16:00
+1147,https://tff.org/mac/148,Kayserispor,2,Ç. Rizespor,0,RHG Enertürk,Mehmet Türkmen,21.12.2024 19:00
+1148,https://tff.org/mac/149,Başakşehir,1,Adana Demirspor,1,Fatih Terim,Burak Pakkan,22.12.2024 13:30
+1149,https://tff.org/mac/150,Konyaspor,1,Antalyaspor,1,MEDAŞ Konya,Alper Akarsu,22.12.2024 16:00
+1150,https://tff.org/mac/151,Samsunspor,2,Sivasspor,2,Yeni 19 Mayıs,Çağdaş Altay,22.12.2024 16:00
+1151,https://tff.org/mac/152,Trabzonspor,0,Göztepe,1,Papara Park,Zorbay Küçük,22.12.2024 19:00
+1152,https://tff.org/mac/153,Beşiktaş,0,Galatasaray,1,Tüpraş Stadyumu,Atilla Karaoğlan,23.12.2024 20:00
+1153,https://tff.org/mac/154,Kasımpaşa,3,Ç. Rizespor,2,R. Tayyip Erdoğan,M. Ali Metoğlu,03.01.2025 20:00
+1154,https://tff.org/mac/155,Adana Demirspor,0,Başakşehir,1,Yeni Adana,Yasin Kol,04.01.2025 13:30
+1155,https://tff.org/mac/156,Antalyaspor,1,Kayserispor,3,Corendon Airlines,Kadir Sağlam,04.01.2025 16:00
+1156,https://tff.org/mac/157,Alanyaspor,0,Konyaspor,0,GAIN Park,Cihan Aydın,04.01.2025 19:00
+1157,https://tff.org/mac/158,Sivasspor,1,Eyüpspor,1,BG Grup 4 Eylül,Oğuzhan Çakır,05.01.2025 13:30
+1158,https://tff.org/mac/159,Göztepe,1,Hatayspor,1,Gürsel Aksel,Ali Şansalan,05.01.2025 16:00
+1159,https://tff.org/mac/160,Bodrum FK,1,Trabzonspor,2,Bodrum İlçe,Turgut Doman,05.01.2025 16:00
+1160,https://tff.org/mac/161,Fenerbahçe,4,Samsunspor,0,Ülker Stadyumu,Halil Umut Meler,05.01.2025 19:00
+1161,https://tff.org/mac/162,Galatasaray,3,Gaziantep FK,0,RAMS Park,Mehmet Türkmen,06.01.2025 20:00
+1162,https://tff.org/mac/163,Konyaspor,1,Fenerbahçe,0,MEDAŞ Konya,Zorbay Küçük,10.01.2025 20:00
+1163,https://tff.org/mac/164,Kayserispor,1,Göztepe,1,RHG Enertürk,Direnç Tonusluoğlu,11.01.2025 13:30
+1164,https://tff.org/mac/165,Başakşehir,1,Galatasaray,2,Fatih Terim,Arda Kardeşler,11.01.2025 16:00
+1165,https://tff.org/mac/166,Ç. Rizespor,1,Bodrum FK,0,Çaykur Didi,Atilla Karaoğlan,11.01.2025 19:00
+1166,https://tff.org/mac/167,Hatayspor,2,Samsunspor,2,Mersin Stadyumu,Turgut Doman,12.01.2025 13:30
+1167,https://tff.org/mac/168,Gaziantep FK,0,Antalyaspor,2,Kalyon Stadyumu,Burak Pakkan,12.01.2025 16:00
+1168,https://tff.org/mac/169,Eyüpspor,1,Alanyaspor,1,R. Tayyip Erdoğan,Emre Kargın,12.01.2025 16:00
+1169,https://tff.org/mac/170,Trabzonspor,2,Kasımpaşa,0,Papara Park,Ozan Ergün,12.01.2025 19:00
+1170,https://tff.org/mac/171,Beşiktaş,3,Adana Demirspor,0,Tüpraş Stadyumu,M. Ali Metoğlu,13.01.2025 20:00
+1171,https://tff.org/mac/172,Konyaspor,2,Kasımpaşa,0,MEDAŞ Konya,Kadir Sağlam,17.01.2025 20:00
+1172,https://tff.org/mac/173,Antalyaspor,2,Göztepe,1,Corendon Airlines,Ali Şansalan,18.01.2025 13:30
+1173,https://tff.org/mac/174,Başakşehir,0,Ç. Rizespor,0,Fatih Terim,Mehmet Türkmen,18.01.2025 16:00
+1174,https://tff.org/mac/175,Adana Demirspor,1,Fenerbahçe,2,Yeni Adana,Halil Umut Meler,18.01.2025 19:00
+1175,https://tff.org/mac/176,Eyüpspor,3,Alanyaspor,1,R. Tayyip Erdoğan,Cihan Aydın,19.01.2025 13:30
+1176,https://tff.org/mac/177,Trabzonspor,1,Sivasspor,1,Papara Park,Burak Pakkan,19.01.2025 16:00
+1177,https://tff.org/mac/178,Gaziantep FK,2,Bodrum FK,1,Kalyon Stadyumu,Oğuzhan Çakır,19.01.2025 16:00
+1178,https://tff.org/mac/179,Hatayspor,1,Galatasaray,1,Mersin Stadyumu,Zorbay Küçük,19.01.2025 19:00
+1179,https://tff.org/mac/180,Samsunspor,0,Beşiktaş,0,Yeni 19 Mayıs,Atilla Karaoğlan,20.01.2025 20:00
+1180,https://tff.org/mac/181,Kasımpaşa,1,Hatayspor,0,R. Tayyip Erdoğan,Oğuzhan Çakır,24.01.2025 20:00
+1181,https://tff.org/mac/182,Alanyaspor,1,Başakşehir,1,GAIN Park,Zorbay Küçük,25.01.2025 13:30
+1182,https://tff.org/mac/183,Bodrum FK,2,Eyüpspor,1,Bodrum İlçe,Emre Kargın,25.01.2025 16:00
+1183,https://tff.org/mac/184,Ç. Rizespor,0,Adana Demirspor,0,Çaykur Didi,Ali Şansalan,25.01.2025 19:00
+1184,https://tff.org/mac/185,Fenerbahçe,4,Göztepe,1,Ülker Stadyumu,Atilla Karaoğlan,26.01.2025 16:00
+1185,https://tff.org/mac/186,Antalyaspor,1,Beşiktaş,0,Corendon Airlines,M. Ali Metoğlu,26.01.2025 16:00
+1186,https://tff.org/mac/187,Sivasspor,0,Kayserispor,0,BG Grup 4 Eylül,Yasin Kol,26.01.2025 19:00
+1187,https://tff.org/mac/188,Galatasaray,2,Konyaspor,0,RAMS Park,Halil Umut Meler,26.01.2025 19:00
+1188,https://tff.org/mac/189,Gaziantep FK,1,Trabzonspor,1,Kalyon Stadyumu,Cihan Aydın,27.01.2025 20:00
+1189,https://tff.org/mac/190,Eyüpspor,1,Sivasspor,1,R. Tayyip Erdoğan,Ozan Ergün,31.01.2025 20:00
+1190,https://tff.org/mac/191,Trabzonspor,1,Samsunspor,0,Papara Park,Direnç Tonusluoğlu,01.02.2025 13:30
+1191,https://tff.org/mac/192,Başakşehir,1,Ç. Rizespor,0,Fatih Terim,Turgut Doman,01.02.2025 16:00
+1192,https://tff.org/mac/193,Konyaspor,2,Bodrum FK,0,MEDAŞ Konya,Mehmet Türkmen,01.02.2025 19:00
+1193,https://tff.org/mac/194,Hatayspor,2,Antalyaspor,1,Mersin Stadyumu,Burak Pakkan,02.02.2025 13:30
+1194,https://tff.org/mac/195,Göztepe,1,Alanyaspor,2,Gürsel Aksel,Alper Akarsu,02.02.2025 16:00
+1195,https://tff.org/mac/196,Kayserispor,1,Galatasaray,0,RHG Enertürk,Çağdaş Altay,02.02.2025 19:00
+1196,https://tff.org/mac/197,Beşiktaş,1,Gaziantep FK,1,Tüpraş Stadyumu,Atilla Karaoğlan,03.02.2025 20:00
+1197,https://tff.org/mac/198,Adana Demirspor,0,Kasımpaşa,1,Yeni Adana,M. Ali Metoğlu,03.02.2025 20:00
+1198,https://tff.org/mac/199,Kasımpaşa,2,Göztepe,2,R. Tayyip Erdoğan,Yasin Kol,07.02.2025 20:00
+1199,https://tff.org/mac/200,Alanyaspor,1,Fenerbahçe,0,GAIN Park,Halil Umut Meler,08.02.2025 13:30
+1200,https://tff.org/mac/201,Bodrum FK,2,Adana Demirspor,1,Bodrum İlçe,Oğuzhan Çakır,08.02.2025 16:00
+1201,https://tff.org/mac/202,Ç. Rizespor,1,Eyüpspor,0,Çaykur Didi,Direnç Tonusluoğlu,08.02.2025 19:00
+1202,https://tff.org/mac/203,Sivasspor,0,Beşiktaş,1,BG Grup 4 Eylül,Zorbay Küçük,09.02.2025 13:30
+1203,https://tff.org/mac/204,Samsunspor,0,Hatayspor,0,Yeni 19 Mayıs,Ali Şansalan,09.02.2025 16:00
+1204,https://tff.org/mac/205,Antalyaspor,0,Başakşehir,1,Corendon Airlines,Kadir Sağlam,09.02.2025 19:00
+1205,https://tff.org/mac/206,Galatasaray,1,Trabzonspor,0,RAMS Park,Arda Kardeşler,09.02.2025 19:00
+1206,https://tff.org/mac/207,Gaziantep FK,1,Kayserispor,1,Kalyon Stadyumu,Turgut Doman,10.02.2025 20:00
+1207,https://tff.org/mac/208,Eyüpspor,0,Galatasaray,1,R. Tayyip Erdoğan,Atilla Karaoğlan,14.02.2025 20:00
+1208,https://tff.org/mac/209,Kayserispor,2,Ç. Rizespor,1,RHG Enertürk,Mehmet Türkmen,15.02.2025 13:30
+1209,https://tff.org/mac/210,Başakşehir,2,Samsunspor,0,Fatih Terim,Burak Pakkan,15.02.2025 16:00
+1210,https://tff.org/mac/211,Konyaspor,1,Adana Demirspor,1,MEDAŞ Konya,Alper Akarsu,15.02.2025 19:00
+1211,https://tff.org/mac/212,Göztepe,2,Kasımpaşa,1,Gürsel Aksel,Cihan Aydın,16.02.2025 13:30
+1212,https://tff.org/mac/213,Hatayspor,2,Sivasspor,2,Mersin Stadyumu,Ozan Ergün,16.02.2025 16:00
+1213,https://tff.org/mac/214,Fenerbahçe,2,Antalyaspor,0,Ülker Stadyumu,M. Ali Metoğlu,16.02.2025 19:00
+1214,https://tff.org/mac/215,Trabzonspor,3,Alanyaspor,0,Papara Park,Çağdaş Altay,16.02.2025 19:00
+1215,https://tff.org/mac/216,Beşiktaş,1,Gaziantep FK,0,Tüpraş Stadyumu,Direnç Tonusluoğlu,17.02.2025 20:00
+1216,https://tff.org/mac/217,Kasımpaşa,3,Beşiktaş,1,R. Tayyip Erdoğan,Turgut Doman,21.02.2025 20:00
+1217,https://tff.org/mac/218,Adana Demirspor,1,Bodrum FK,2,Yeni Adana,Yasin Kol,22.02.2025 13:30
+1218,https://tff.org/mac/219,Antalyaspor,1,Konyaspor,0,Corendon Airlines,Mehmet Türkmen,22.02.2025 16:00
+1219,https://tff.org/mac/220,Alanyaspor,1,Samsunspor,0,GAIN Park,Alper Akarsu,22.02.2025 19:00
+1220,https://tff.org/mac/221,Sivasspor,0,Göztepe,1,BG Grup 4 Eylül,Zorbay Küçük,23.02.2025 13:30
+1221,https://tff.org/mac/222,Galatasaray,1,Kayserispor,0,RAMS Park,Cihan Aydın,23.02.2025 16:00
+1222,https://tff.org/mac/223,Ç. Rizespor,2,Hatayspor,1,Çaykur Didi,Oğuzhan Çakır,23.02.2025 19:00
+1223,https://tff.org/mac/224,Gaziantep FK,0,Fenerbahçe,2,Kalyon Stadyumu,M. Ali Metoğlu,23.02.2025 19:00
+1224,https://tff.org/mac/225,Eyüpspor,1,Başakşehir,1,R. Tayyip Erdoğan,Kadir Sağlam,24.02.2025 20:00
+1225,https://tff.org/mac/226,Konyaspor,1,Ç. Rizespor,0,MEDAŞ Konya,M. Ali Metoğlu,28.02.2025 20:00
+1226,https://tff.org/mac/227,Kayserispor,1,Başakşehir,1,RHG Enertürk,Atilla Karaoğlan,01.03.2025 13:30
+1227,https://tff.org/mac/228,Adana Demirspor,1,Trabzonspor,2,Yeni Adana,Yasin Kol,01.03.2025 16:00
+1228,https://tff.org/mac/229,Antalyaspor,1,Kasımpaşa,1,Corendon Airlines,Halil Umut Meler,01.03.2025 19:00
+1229,https://tff.org/mac/230,Fenerbahçe,2,Hatayspor,0,Ülker Stadyumu,Zorbay Küçük,02.03.2025 16:00
+1230,https://tff.org/mac/231,Samsunspor,0,Galatasaray,1,Yeni 19 Mayıs,Arda Kardeşler,02.03.2025 19:00
+1231,https://tff.org/mac/232,Göztepe,2,Eyüpspor,1,Gürsel Aksel,Cihan Aydın,02.03.2025 19:00
+1232,https://tff.org/mac/233,Beşiktaş,1,Alanyaspor,0,Tüpraş Stadyumu,Kadir Sağlam,03.03.2025 20:00
+1233,https://tff.org/mac/234,Bodrum FK,2,Sivasspor,1,Bodrum İlçe,Oğuzhan Çakır,03.03.2025 20:00
+1234,https://tff.org/mac/235,Kasımpaşa,2,Samsunspor,2,R. Tayyip Erdoğan,Direnç Tonusluoğlu,07.03.2025 20:00
+1235,https://tff.org/mac/236,Eyüpspor,1,Konyaspor,1,R. Tayyip Erdoğan,Emre Kargın,08.03.2025 13:30
+1236,https://tff.org/mac/237,Trabzonspor,0,Beşiktaş,1,Papara Park,Turgut Doman,08.03.2025 16:00
+1237,https://tff.org/mac/238,Sivasspor,1,Antalyaspor,0,BG Grup 4 Eylül,Mehmet Türkmen,08.03.2025 19:00
+1238,https://tff.org/mac/239,Başakşehir,1,Göztepe,1,Fatih Terim,Burak Pakkan,09.03.2025 13:30
+1239,https://tff.org/mac/240,Alanyaspor,1,Kayserispor,0,GAIN Park,Alper Akarsu,09.03.2025 16:00
+1240,https://tff.org/mac/241,Galatasaray,2,Bodrum FK,0,RAMS Park,Çağdaş Altay,09.03.2025 19:00
+1241,https://tff.org/mac/242,Hatayspor,1,Gaziantep FK,1,Mersin Stadyumu,M. Ali Metoğlu,09.03.2025 19:00
+1242,https://tff.org/mac/243,Ç. Rizespor,0,Fenerbahçe,0,Çaykur Didi,Atilla Karaoğlan,10.03.2025 20:00
+1243,https://tff.org/mac/244,Konyaspor,1,Gaziantep FK,1,MEDAŞ Konya,Yasin Kol,14.03.2025 20:00
+1244,https://tff.org/mac/245,Kayserispor,1,Hatayspor,1,RHG Enertürk,Halil Umut Meler,15.03.2025 13:30
+1245,https://tff.org/mac/246,Adana Demirspor,2,Ç. Rizespor,1,Yeni Adana,Zorbay Küçük,15.03.2025 16:00
+1246,https://tff.org/mac/247,Antalyaspor,0,Eyüpspor,0,Corendon Airlines,Cihan Aydın,15.03.2025 19:00
+1247,https://tff.org/mac/248,Fenerbahçe,3,Kasımpaşa,0,Ülker Stadyumu,Kadir Sağlam,16.03.2025 16:00
+1248,https://tff.org/mac/249,Samsunspor,0,Trabzonspor,1,Yeni 19 Mayıs,Ali Şansalan,16.03.2025 19:00
+1249,https://tff.org/mac/250,Göztepe,2,Başakşehir,1,Gürsel Aksel,Direnç Tonusluoğlu,16.03.2025 19:00
+1250,https://tff.org/mac/251,Beşiktaş,2,Alanyaspor,0,Tüpraş Stadyumu,Turgut Doman,17.03.2025 20:00
+1251,https://tff.org/mac/252,Kasımpaşa,1,Sivasspor,0,R. Tayyip Erdoğan,M. Ali Metoğlu,28.03.2025 20:00
+1252,https://tff.org/mac/253,Eyüpspor,1,Kayserispor,2,R. Tayyip Erdoğan,Yasin Kol,29.03.2025 13:30
+1253,https://tff.org/mac/254,Trabzonspor,2,Antalyaspor,0,Papara Park,Oğuzhan Çakır,29.03.2025 16:00
+1254,https://tff.org/mac/255,Başakşehir,1,Adana Demirspor,0,Fatih Terim,Emre Kargın,29.03.2025 19:00
+1255,https://tff.org/mac/256,Alanyaspor,0,Samsunspor,1,GAIN Park,Mehmet Türkmen,30.03.2025 13:30
+1256,https://tff.org/mac/257,Galatasaray,3,Fenerbahçe,0,RAMS Park,Arda Kardeşler,30.03.2025 16:00
+1257,https://tff.org/mac/258,Hatayspor,0,Konyaspor,0,Mersin Stadyumu,Alper Akarsu,30.03.2025 19:00
+1258,https://tff.org/mac/259,Ç. Rizespor,2,Bodrum FK,0,Çaykur Didi,Burak Pakkan,30.03.2025 19:00
+1259,https://tff.org/mac/260,Gaziantep FK,1,Göztepe,1,Kalyon Stadyumu,Çağdaş Altay,31.03.2025 20:00
+1260,https://tff.org/mac/261,Konyaspor,0,Beşiktaş,0,MEDAŞ Konya,Atilla Karaoğlan,04.04.2025 20:00
+1261,https://tff.org/mac/262,Kayserispor,1,Samsunspor,2,RHG Enertürk,Zorbay Küçük,05.04.2025 13:30
+1262,https://tff.org/mac/263,Adana Demirspor,1,Alanyaspor,1,Yeni Adana,Direnç Tonusluoğlu,05.04.2025 16:00
+1263,https://tff.org/mac/264,Antalyaspor,0,Ç. Rizespor,1,Corendon Airlines,Ozan Ergün,05.04.2025 19:00
+1264,https://tff.org/mac/265,Fenerbahçe,2,Trabzonspor,0,Ülker Stadyumu,Halil Umut Meler,06.04.2025 16:00
+1265,https://tff.org/mac/266,Göztepe,1,Hatayspor,0,Gürsel Aksel,Turgut Doman,06.04.2025 19:00
+1266,https://tff.org/mac/267,Bodrum FK,1,Kasımpaşa,1,Bodrum İlçe,Kadir Sağlam,06.04.2025 13:30
+1267,https://tff.org/mac/268,Sivasspor,0,Başakşehir,1,BG Grup 4 Eylül,Ali Şansalan,07.04.2025 20:00
+1268,https://tff.org/mac/269,Gaziantep FK,0,Galatasaray,2,Kalyon Stadyumu,Arda Kardeşler,07.04.2025 20:00
+1269,https://tff.org/mac/270,Kasımpaşa,1,Gaziantep FK,0,R. Tayyip Erdoğan,Halil Umut Meler,11.04.2025 20:00
+1270,https://tff.org/mac/271,Eyüpspor,1,Fenerbahçe,1,R. Tayyip Erdoğan,Zorbay Küçük,12.04.2025 13:30
+1271,https://tff.org/mac/272,Bodrum FK,1,Antalyaspor,1,Bodrum İlçe,Oğuzhan Çakır,12.04.2025 16:00
+1272,https://tff.org/mac/273,Ç. Rizespor,2,Sivasspor,0,Çaykur Didi,Atilla Karaoğlan,12.04.2025 19:00
+1273,https://tff.org/mac/274,Adana Demirspor,2,Hatayspor,1,Yeni Adana,Arda Kardeşler,13.04.2025 13:30
+1274,https://tff.org/mac/275,Samsunspor,1,Beşiktaş,1,Yeni 19 Mayıs,M. Ali Metoğlu,13.04.2025 16:00
+1275,https://tff.org/mac/276,Konyaspor,1,Göztepe,2,MEDAŞ Konya,Cihan Aydın,13.04.2025 19:00
+1276,https://tff.org/mac/277,Trabzonspor,2,Rizespor,0,Papara Park,Kadir Sağlam,13.04.2025 19:00
+1277,https://tff.org/mac/278,Galatasaray,1,Eyüpspor,0,RAMS Park,Ali Şansalan,14.04.2025 20:00
+1278,https://tff.org/mac/279,Alanyaspor,1,Başakşehir,0,GAIN Park,Direnç Tonusluoğlu,18.04.2025 20:00
+1279,https://tff.org/mac/280,Konyaspor,1,Trabzonspor,1,MEDAŞ Konya,Mehmet Türkmen,19.04.2025 13:30
+1280,https://tff.org/mac/281,Kayserispor,1,Kasımpaşa,0,RHG Enertürk,Turgut Doman,19.04.2025 16:00
+1281,https://tff.org/mac/282,Adana Demirspor,1,Bodrum FK,2,Yeni Adana,Burak Pakkan,19.04.2025 19:00
+1282,https://tff.org/mac/283,Antalyaspor,1,Ç. Rizespor,1,Corendon Airlines,Ozan Ergün,20.04.2025 13:30
+1283,https://tff.org/mac/284,Fenerbahçe,2,Başakşehir,0,Ülker Stadyumu,Alper Akarsu,20.04.2025 16:00
+1284,https://tff.org/mac/285,Göztepe,2,Alanyaspor,1,Gürsel Aksel,Çağdaş Altay,20.04.2025 19:00
+1285,https://tff.org/mac/286,Samsunspor,1,Hatayspor,1,Yeni 19 Mayıs,Emre Kargın,20.04.2025 19:00
+1286,https://tff.org/mac/287,Galatasaray,2,Beşiktaş,0,RAMS Park,Halil Umut Meler,21.04.2025 20:00
+1287,https://tff.org/mac/288,Eyüpspor,1,Adana Demirspor,1,R. Tayyip Erdoğan,Yasin Kol,25.04.2025 20:00
+1288,https://tff.org/mac/289,Trabzonspor,1,Kasımpaşa,1,Papara Park,Cihan Aydın,26.04.2025 13:30
+1289,https://tff.org/mac/290,Başakşehir,2,Konyaspor,0,Fatih Terim,M. Ali Metoğlu,26.04.2025 16:00
+1290,https://tff.org/mac/291,Alanyaspor,1,Göztepe,0,GAIN Park,Zorbay Küçük,26.04.2025 19:00
+1291,https://tff.org/mac/292,Bodrum FK,2,Antalyaspor,1,Bodrum İlçe,Kadir Sağlam,27.04.2025 13:30
+1292,https://tff.org/mac/293,Ç. Rizespor,1,Samsunspor,1,Çaykur Didi,Ali Şansalan,27.04.2025 16:00
+1293,https://tff.org/mac/294,Gaziantep FK,1,Sivasspor,1,Kalyon Stadyumu,Atilla Karaoğlan,27.04.2025 19:00
+1294,https://tff.org/mac/295,Hatayspor,0,Galatasaray,1,Mersin Stadyumu,Direnç Tonusluoğlu,27.04.2025 19:00
+1295,https://tff.org/mac/296,Beşiktaş,1,Kayserispor,1,Tüpraş Stadyumu,Turgut Doman,28.04.2025 20:00
+1296,https://tff.org/mac/297,Kasımpaşa,2,Başakşehir,2,R. Tayyip Erdoğan,Burak Pakkan,02.05.2025 20:00
+1297,https://tff.org/mac/298,Konyaspor,1,Sivasspor,0,MEDAŞ Konya,Mehmet Türkmen,03.05.2025 13:30
+1298,https://tff.org/mac/299,Kayserispor,1,Adana Demirspor,2,RHG Enertürk,Ozan Ergün,03.05.2025 16:00
+1299,https://tff.org/mac/300,Antalyaspor,0,Trabzonspor,1,Corendon Airlines,Emre Kargın,03.05.2025 19:00
+1300,https://tff.org/mac/301,Fenerbahçe,2,Ç. Rizespor,0,Ülker Stadyumu,Alper Akarsu,04.05.2025 16:00
+1301,https://tff.org/mac/302,Göztepe,1,Samsunspor,1,Gürsel Aksel,Çağdaş Altay,04.05.2025 19:00
+1302,https://tff.org/mac/303,Alanyaspor,1,Bodrum FK,0,GAIN Park,Abdullah Buğra Taşkınsoy,04.05.2025 19:00
+1303,https://tff.org/mac/304,Galatasaray,2,Hatayspor,0,RAMS Park,Yasin Kol,05.05.2025 20:00
+1304,https://tff.org/mac/305,Eyüpspor,1,Gaziantep FK,1,R. Tayyip Erdoğan,Halil Umut Meler,05.05.2025 20:00
+1305,https://tff.org/mac/306,Adana Demirspor,1,Göztepe,0,Yeni Adana,Cihan Aydın,09.05.2025 20:00
+1306,https://tff.org/mac/307,Başakşehir,1,Kasımpaşa,0,Fatih Terim,Atilla Karaoğlan,10.05.2025 13:30
+1307,https://tff.org/mac/308,Sivasspor,0,Konyaspor,0,BG Grup 4 Eylül,Zorbay Küçük,10.05.2025 16:00
+1308,https://tff.org/mac/309,Trabzonspor,1,Eyüpspor,1,Papara Park,Kadir Sağlam,10.05.2025 19:00
+1309,https://tff.org/mac/310,Ç. Rizespor,1,Galatasaray,1,Çaykur Didi,Arda Kardeşler,11.05.2025 16:00
+1310,https://tff.org/mac/311,Samsunspor,0,Kayserispor,1,Yeni 19 Mayıs,Ozan Ergün,11.05.2025 19:00
+1311,https://tff.org/mac/312,Gaziantep FK,1,Alanyaspor,2,Kalyon Stadyumu,M. Ali Metoğlu,11.05.2025 19:00
+1312,https://tff.org/mac/313,Hatayspor,1,Bodrum FK,1,Mersin Stadyumu,Direnç Tonusluoğlu,12.05.2025 20:00
+1313,https://tff.org/mac/314,Beşiktaş,0,Fenerbahçe,1,Tüpraş Stadyumu,Turgut Doman,12.05.2025 20:00
+1314,https://tff.org/mac/315,Kasımpaşa,1,Ç. Rizespor,1,R. Tayyip Erdoğan,Oğuzhan Çakır,16.05.2025 20:00
+1315,https://tff.org/mac/316,Kayserispor,1,Trabzonspor,1,RHG Enertürk,Zorbay Küçük,17.05.2025 13:30
+1316,https://tff.org/mac/317,Adana Demirspor,1,Gaziantep FK,0,Yeni Adana,Atilla Karaoğlan,17.05.2025 16:00
+1317,https://tff.org/mac/318,Antalyaspor,2,Samsunspor,2,Corendon Airlines,M. Ali Metoğlu,17.05.2025 19:00
+1318,https://tff.org/mac/319,Fenerbahçe,2,Göztepe,0,Ülker Stadyumu,Arda Kardeşler,18.05.2025 16:00
+1319,https://tff.org/mac/320,Başakşehir,1,Beşiktaş,1,Fatih Terim,Halil Umut Meler,18.05.2025 19:00
+1320,https://tff.org/mac/321,Sivasspor,0,Alanyaspor,1,BG Grup 4 Eylül,Cihan Aydın,18.05.2025 19:00
+1321,https://tff.org/mac/322,Hatayspor,1,Eyüpspor,2,Mersin Stadyumu,Kadir Sağlam,19.05.2025 20:00
+1322,https://tff.org/mac/323,Bodrum FK,0,Konyaspor,1,Bodrum İlçe,Direnç Tonusluoğlu,19.05.2025 20:00
+1323,https://tff.org/mac/324,Eyüpspor,1,Kasımpaşa,1,R. Tayyip Erdoğan,Ozan Ergün,23.05.2025 20:00
+1324,https://tff.org/mac/325,Trabzonspor,2,Hatayspor,1,Papara Park,Turgut Doman,24.05.2025 13:30
+1325,https://tff.org/mac/326,Başakşehir,1,Bodrum FK,0,Fatih Terim,Ali Şansalan,24.05.2025 16:00
+1326,https://tff.org/mac/327,Alanyaspor,1,Sivasspor,0,GAIN Park,Mehmet Türkmen,24.05.2025 19:00
+1327,https://tff.org/mac/328,Ç. Rizespor,1,Antalyaspor,1,Çaykur Didi,Emre Kargın,25.05.2025 16:00
+1328,https://tff.org/mac/329,Gaziantep FK,1,Adana Demirspor,1,Kalyon Stadyumu,Yasin Kol,25.05.2025 19:00
+1329,https://tff.org/mac/330,Göztepe,1,Galatasaray,2,Gürsel Aksel,Zorbay Küçük,25.05.2025 19:00
+1330,https://tff.org/mac/331,Konyaspor,1,Fenerbahçe,1,MEDAŞ Konya,M. Ali Metoğlu,26.05.2025 20:00
+1331,https://tff.org/mac/332,Beşiktaş,0,Kayserispor,1,Tüpraş Stadyumu,Burak Pakkan,26.05.2025 20:00
+1332,https://tff.org/mac/333,Kasımpaşa,1,Alanyaspor,0,R. Tayyip Erdoğan,Ozan Ergün,30.05.2025 20:00
+1333,https://tff.org/mac/334,Samsunspor,1,Eyüpspor,2,Yeni 19 Mayıs,Atilla Karaoğlan,30.05.2025 20:00
+1334,https://tff.org/mac/335,Kayserispor,1,Konyaspor,1,RHG Enertürk,Turgut Doman,30.05.2025 20:00
+1335,https://tff.org/mac/336,Adana Demirspor,2,Beşiktaş,1,Yeni Adana,Halil Umut Meler,30.05.2025 20:00
+1336,https://tff.org/mac/337,Antalyaspor,1,Gaziantep FK,1,Corendon Airlines,Cihan Aydın,30.05.2025 20:00
+1337,https://tff.org/mac/338,Fenerbahçe,1,Sivasspor,1,Ülker Stadyumu,Kadir Sağlam,30.05.2025 20:00
+1338,https://tff.org/mac/339,Galatasaray,2,Başakşehir,0,RAMS Park,Zorbay Küçük,30.05.2025 20:00
+1339,https://tff.org/mac/340,Bodrum FK,2,Göztepe,1,Bodrum İlçe,Ali Şansalan,30.05.2025 20:00
+1340,https://tff.org/mac/341,Hatayspor,1,Ç. Rizespor,0,Mersin Stadyumu,Arda Kardeşler,30.05.2025 20:00
