@@ -28,8 +28,8 @@ st.markdown("""
 @st.cache_resource
 def model_yukle():
     try:
-        return joblib.load('final_voting_model.pkl')
-    except:
+        return joblib.load("final_voting_model.pkl")
+    except (FileNotFoundError, KeyError, ValueError, TypeError):
         return None
 
 paket = model_yukle()
