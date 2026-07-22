@@ -47,7 +47,10 @@ id_isim = paket['id_den_isime']
 # --- BAŞLIK ---
 st.title("⚽ Süper Lig Kupon Sihirbazı")
 st.markdown("**Yöntem:** Ensemble Learning (RF + SVM + LR Voting Classifier)")
-st.info("Bu sistem geçmiş 20 yıllık veriyi ve güncel form durumlarını analiz eder.")
+st.info(
+    "Bu eğitim amaçlı sistem, geçmiş Süper Lig maçlarından türetilen "
+    "takım performans istatistiklerini analiz eder."
+)
 
 # --- KULLANICI GİRİŞLERİ ---
 st.markdown("### 🏟️ Maç Seçimi")
